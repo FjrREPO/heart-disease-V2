@@ -47,7 +47,7 @@ export default function Home() {
             <Activity className="mx-auto mb-4 text-primary" size={32} />
             <h3 className="text-xl font-semibold mb-2">Accurate Analysis</h3>
             <p className="text-default-500">
-              Advanced machine learning models trained on extensive medical data
+              Advanced deep learning models trained on extensive medical data
             </p>
           </CardBody>
         </Card>
