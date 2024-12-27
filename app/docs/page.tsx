@@ -24,7 +24,7 @@ export default function DocsPage() {
             <CardBody>
               <p className="text-default-600 leading-relaxed">
                 This project implements a deep learning model with KNN to predict heart disease risk 
-                based on patient risk factors. The model utilizes the comprehensive "Heart Disease Dataset" 
+                based on patient risk factors. The model utilizes the comprehensive &quot;Heart Disease Dataset&quot; 
                 from Kaggle for training and validation.
               </p>
             </CardBody>
