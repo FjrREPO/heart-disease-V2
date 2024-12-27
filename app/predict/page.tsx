@@ -159,7 +159,7 @@ export default function PredictPage() {
 
   return (
     <div className="min-h-screen">
-      <div className="max-w-[800px] mx-auto px-6 py-12">
+      <div className="max-w-[800px] mx-auto py-12">
         <div className="text-center mb-8">
           <h1 className={`${title()} text-3xl mb-4`}>Heart Disease Risk Prediction</h1>
           <p className="text-default-600">Enter patient data to predict heart disease risk</p>

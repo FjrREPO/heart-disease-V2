@@ -7,7 +7,7 @@ import { title } from "@/components/primitives";
 export default function DocsPage() {
   return (
     <div className="min-h-screen">
-      <div className="max-w-[1200px] mx-auto px-6">
+      <div className="max-w-[1200px] mx-auto">
         <div className="flex items-center justify-center mb-12">
           <div className="space-y-2 text-center">
             <h1 className={`${title()} text-4xl`}>Heart Disease</h1>
